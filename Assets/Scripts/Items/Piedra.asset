@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b26f17b688bc4494491e851886353036, type: 3}
+  m_Name: Piedra
+  m_EditorClassIdentifier: 
+  nombre: Piedra
+  descripcion: Te la tiran a la cara
+  icono: {fileID: 21300000, guid: ceb0ca3a9fec7488c8cfb4ae65934579, type: 3}
+  prefabDrop: {fileID: 919132149155446097, guid: 7b0c8f33108ac426a9ee757ad688c394, type: 3}
+  tipo: 0
+  puedeStackear: 1
+  maxNumStack: 12
